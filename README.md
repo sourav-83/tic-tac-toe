@@ -27,11 +27,7 @@ A simple and interactive Tic Tac Toe game developed using the iGraphics library 
 ## How to Run
 
 1. Install the iGraphics library:
-   - Download from: [https://github.com/tosibham/iGraphics](https://github.com/tosibham/iGraphics)
-   - Follow the installation guide based on your OS
-
 2. Clone or download this repository.
-
 3. Compile and run the code using a compatible C++ compiler or an IDE like Code::Blocks.
 
    Example (Windows with GCC):
