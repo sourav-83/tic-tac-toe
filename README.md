@@ -34,3 +34,8 @@ A simple and interactive Tic Tac Toe game developed using the iGraphics library 
 
    ```bash
    g++ iMain.cpp -lwinmm -lgdi32 -lopengl32 -lglu32 -o iMain.exe
+   ```
+<br>  This is how it looks:<br>
+
+![Game UI](tictactoe.png)
+
